@@ -42,8 +42,8 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arazshahkarami&show_icons=true&theme=radical&count_private=true" alt="Araz's GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=arazshahkarami&layout=compact&theme=radical" alt="Top Languages" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arazshah&show_icons=true&theme=radical&count_private=true" alt="Araz's GitHub Stats" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=arazshah&layout=compact&theme=radical" alt="Top Languages" height="175"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@
 
 - **Personal Website:** [araz.me](https://araz.me)
 - **LinkedIn:** [Araz Shahkarami](https://www.linkedin.com/in/araz-shahkarami/)
-- **GitHub:** [@arazshahkarami](https://github.com/arazshahkarami)
+- **GitHub:** [@arazshah](https://github.com/arazshah)
 - **Mail:** mail at araz dot me
 
 ---
